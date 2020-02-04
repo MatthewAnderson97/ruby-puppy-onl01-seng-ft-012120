@@ -12,5 +12,4 @@ class Dog
         puts dog.name
         end
         
-        def save
-          self<<@@all# Add your code here
+      # Add your code here
