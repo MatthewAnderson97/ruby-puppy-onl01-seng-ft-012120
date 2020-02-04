@@ -4,4 +4,5 @@ class Dog
   
   def initialize
     @name = name
-    @@all >> self# Add your code here
+    @@all << self
+    # Add your code here
