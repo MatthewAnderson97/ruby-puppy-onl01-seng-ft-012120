@@ -8,4 +8,4 @@ class Dog
     end
     
     def self.all
-      # Add your code here
+      @@all # Add your code here
