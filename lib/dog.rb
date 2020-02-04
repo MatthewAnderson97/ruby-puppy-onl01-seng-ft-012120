@@ -12,4 +12,4 @@ class Dog
         puts dog.name
         end
         
-      # Add your code here
+      def self.clear# Add your code here
