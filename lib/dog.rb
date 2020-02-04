@@ -9,4 +9,8 @@ class Dog
     
     def self.all
       @@all.each do |dog|
-        # Add your code here
+        puts dog.name
+        end
+        
+        def save
+          self<<@@all# Add your code here
