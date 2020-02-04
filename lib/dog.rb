@@ -3,4 +3,5 @@ class Dog
   @@all = []
   
   def initialize
-    # Add your code here
+    @name = name
+    @@all >> self# Add your code here
