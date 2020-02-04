@@ -1,3 +1,6 @@
 class Dog 
   attr_accessor:name 
-  # Add your code here
+  @@all = []
+  
+  def initialize
+    # Add your code here
