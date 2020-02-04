@@ -8,4 +8,4 @@ class Dog
     end
     
     def self.all
-      @@all.each do# Add your code here
+      @@all.each do |Dog|# Add your code here
